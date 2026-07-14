@@ -2,10 +2,8 @@
 
 #### Preview
 
- - [Demo](https://themewagon.github.io/vaultedge/)
+ - [Demo](https://vaultedge-vansh.rf.gd/)
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/vaultedge/)
 
 ## Getting Started
 
